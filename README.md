@@ -1,2 +1,2 @@
-# 用于存储文件
+# 存储文件夹
 This is a file to store my project and code.
